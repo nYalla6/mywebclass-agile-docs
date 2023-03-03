@@ -15,7 +15,7 @@ Estimated Effort: 2 weeks
 
 Business Value: Will bring more users into the product if it looks well put together.
 
-Priority: First priority
+Priority: [1]
 
 # List stories related to this theme
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
