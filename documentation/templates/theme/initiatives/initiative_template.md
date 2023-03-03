@@ -1,6 +1,7 @@
 "Making a concise and user friendly website"
 
-Description: Essentially following the UX principles and making the website easy to follow
+Description: Essentially following the UX principles and making the website easy to follow.
+It should display all of the necessary information in a concise way.
 
 Goals: Creating a calendar, task list, and class-list
 
