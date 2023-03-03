@@ -1,4 +1,4 @@
-Task Title: Add Class Card
+Task Title: Class Info Card
 
 User Story: Story 1
 
