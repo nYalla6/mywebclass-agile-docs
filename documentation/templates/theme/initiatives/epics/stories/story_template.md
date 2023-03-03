@@ -6,9 +6,9 @@ By following this template, you can create user stories that are structured and 
 
 Acceptance Criteria:
 
-1. The information is clearly visible
-2. Navigating is easy and intuitive.
-3. Limited bugs.
+- The information is clearly visible 
+- Navigating is easy and intuitive.
+- Limited bugs.
 
 
 # List Stories related to this theme
