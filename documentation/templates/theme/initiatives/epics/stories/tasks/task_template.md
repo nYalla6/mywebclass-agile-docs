@@ -1,15 +1,15 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Class Info Card
 
-User Story: [Reference the user story that this task supports]
+User Story: Story 1
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: This should be a list of cards with the class information on it, including the room
+professor, course number, section, and year/sem.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: 1-2 weeks
+Assigned To: Project Manager and Lead Developer
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Priority: First priority, everything else is based on classes.
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Status: not started
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
-
-Notes: [Include]
+Notes: Include legible fonts
