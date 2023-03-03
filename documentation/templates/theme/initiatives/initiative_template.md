@@ -1,26 +1,29 @@
-"Title of the Initiative"
+"Making a concise and user friendly website"
 
-Description: [A brief description of the initiative]
+Description: Essentially following the UX principles and making the website easy to follow
 
-Goals: [List the goals or objectives of the initiative]
+Goals: Creating a calendar, task list, and class-list
 
-Scope: [Define the scope of the initiative]
+Scope: The scope of the project is for the IS218 project.
 
-Outcomes: [Describe the expected outcomes of the initiative]
+Outcomes: People will have a satisfactory experience with the app and be less stressed.
 
-Deliverables: [List the expected deliverables of the initiative]
+Deliverables: Creating the calendar, and add tasks. Add tasks as a component.
 
-Milestones: [List the major milestones and their timelines]
+Milestones: Calendar, task list, dashboard
 
-Constraints: [Identify any constraints or limitations that may impact the initiative]
+Constraints: Limited by time and our abilities, especially for some of the more
+complicated connections between the components.
 
-Assumptions: [List any assumptions made about the initiative]
+Assumptions: Assuming that it is going to be popular and work. Also that we will have
+enough time to get it all done.
 
-Risks: [List the potential risks and mitigation strategies]
+Risks: We may have to forgo some tasks because of the constraints.
 
-Dependencies: [List any dependencies that may impact the initiative]
+Dependencies: Dockerhub and github must be working, and we must be able to push and 
+communicate well thru that.
 
-Team: [Identify the team members and their roles in the initiative]
+Team: Daniel Simoes (Project Manager), Namitha Yalla (Developer)
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
