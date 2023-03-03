@@ -1,4 +1,7 @@
-"As a [user role], I want to [user story] so that [benefit]. By [action], we can [project objective]. This will enable us to [project outcome]. By following [methodology/principles], we can quickly and effectively [project deliverables], setting us up for [long-term benefit]."
+"As a student, I want to access all of my information about classes, grades, and assignments so that everything is organized. 
+By creating an organized user-friendly website, we can make an easily accessible website. 
+This will enable us to view all student information. By following Agile principles and Global UX Principles, 
+we can quickly and effectively provide access to student information, setting us up for long-term success and user satisfaction."
 
 You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
 
